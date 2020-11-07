@@ -1,0 +1,13 @@
+void main() {
+ int zahl1 = 20;
+ int zahl2 = 5; 
+    double kommazahl1 = 2.9; 
+double  kommazahl2 = 0.1;
+String name= "mohamad";  
+  
+print(zahl1);
+   print(zahl2);
+    print(kommazahl1);
+  print(kommazahl2);
+  print(name);
+}
